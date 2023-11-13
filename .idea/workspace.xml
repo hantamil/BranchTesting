@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72959b8e-e11a-4756-9765-00bd515ed438" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+    <list default="true" id="72959b8e-e11a-4756-9765-00bd515ed438" name="Changes" comment="Cat klasse">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +29,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Y7UESkU0sUykfzKDyP3buQVzM2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699876000257</updated>
-      <workItem from="1699876001675" duration="1837000" />
+      <workItem from="1699876001675" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="Animal klasse">
       <option name="closed" value="true" />
@@ -92,44 +93,25 @@
       <option name="project" value="LOCAL" />
       <updated>1699876396804</updated>
     </task>
-    <task id="LOCAL-00005" summary="update">
+    <task id="LOCAL-00005" summary="corrected">
       <option name="closed" value="true" />
-      <created>1699877365409</created>
+      <created>1699878400928</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1699877365409</updated>
+      <updated>1699878400928</updated>
     </task>
-    <task id="LOCAL-00006" summary="update">
-      <option name="closed" value="true" />
-      <created>1699877389383</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1699877389383</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Animal klasse" />
     <MESSAGE value="Dog klasse" />
     <MESSAGE value="Cat klasse" />
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected" />
   </component>
 </project>
