@@ -12,4 +12,10 @@ public class Animal {
             return sound;
         }
     }
+
+    public abstract class eat{
+        public boolean eat(String foodType){
+            return true;
+        }
+    }
 }
